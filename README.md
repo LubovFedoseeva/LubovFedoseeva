@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LubovFedoseeva
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning SQL, Python, math statistics and data visualisation.
-- 💞️ I’m looking to collaborate on working with data and want to take part with hackathons. 
+- 💞️ I’m looking to collaborate on working with data and want to participate in hackathons. 
 - 📫 How to reach me on email lubovfedoseeva94@gmail.com.
 
 <!---
